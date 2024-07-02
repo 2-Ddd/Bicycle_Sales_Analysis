@@ -1,14 +1,16 @@
 # SQL Query: Bee-Cycle Sales Analysis
 
-![image](https://user-images.githubusercontent.com/102453318/223387302-983607c3-3de1-4437-8f15-487b3b46fcbc.png)
+![image]([https://user-images.githubusercontent.com/102453318/223387302-983607c3-3de1-4437-8f15-487b3b46fcbc.png](https://images.app.goo.gl/hYH74eZBPmxisAaSA))
 
-Bee-Cycle is a bicycle manufacturing company. There are 4 product categories:
-- Bikes (eg Touring, Mountain, etc)
-- Accessories (eg Helm, Lights, etc)
-- Clothing (eg Sock, Jersey, etc)
-- Component (eg wheels, pedal etc)
+These data are from a company that manufactures bicycles. They offer products in four main categories:
 
-We'll analyze bee-cycle using SQL query. There are 5 tables:
+Bikes 
+Accessories 
+Clothing 
+Components
+
+
+We will conduct an analysis using SQL queries across five tables.
 
 - dim_product = Product information
 - dim_customer = Customer information
