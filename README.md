@@ -1,4 +1,4 @@
-# SQL Query: Bee-Cycle Sales Analysis
+# SQL Query: Bicycle Sales Analysis
 
 
 These data are from a company that manufactures bicycles. They offer products in four main categories:
