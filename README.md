@@ -25,9 +25,4 @@ Questions:
 4. Which customers have the first name 'Cameron' (random promotions for customers who have the first name 'Cameron')
 5. Profit from each store territory
 6. How many profit each year and each month
-"# Bicycle-Sales-Analysis-1" 
-"# Bicycle-Sales-Analysis-1" 
-"# Bicycle-Sales-Analysis" 
-"# Bicycle-Sales-Analysis" 
-"# Bicycle_Sales_Analysis" 
-"# Bicycle_Sales_Analysis" 
+
