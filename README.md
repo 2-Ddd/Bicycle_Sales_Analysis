@@ -1,6 +1,5 @@
 # SQL Query: Bee-Cycle Sales Analysis
 
-![image]([https://user-images.githubusercontent.com/102453318/223387302-983607c3-3de1-4437-8f15-487b3b46fcbc.png](https://images.app.goo.gl/hYH74eZBPmxisAaSA))
 
 These data are from a company that manufactures bicycles. They offer products in four main categories:
 
