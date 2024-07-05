@@ -22,7 +22,7 @@ Questions:
 1. Top 10 most purchased product
 2. Top 10 customer with the biggest purchases
 3. Product with the biggest profit
-4. Which customers have the first name 'Cameron' (random promotions for customers who have the first name 'Cameron')
+4. Which customers have their birth month as January
 5. Profit from each store territory
 6. How many profit each year and each month
 
