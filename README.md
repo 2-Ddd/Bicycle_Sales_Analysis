@@ -1,4 +1,4 @@
-# SQL Query: Bicycle Sales Analysis
+# SQL Query: Sales Performance Analysis
 
 
 These data are from a company that manufactures bicycles. They offer products in four main categories:
